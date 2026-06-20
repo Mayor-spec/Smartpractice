@@ -1,0 +1,6 @@
+{
+  "name": "WGTBAM 2.0 Prep AI",
+  "description": "Prepare intelligently for the WGTBAM 2.0 competition with custom adaptive AI-generated questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
